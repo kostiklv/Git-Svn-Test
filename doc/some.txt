@@ -2,4 +2,4 @@ This file was added from Git.
 
 This line was added in SVN.
 
-Adding line from GIT
+Adding line from GIT and editing it from SVN
