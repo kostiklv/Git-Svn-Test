@@ -1,2 +1,2 @@
 Some new file added here
-
+Another line here
