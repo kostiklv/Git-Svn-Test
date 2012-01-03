@@ -1,2 +1,4 @@
 Some new file added here
 Another line here
+
+This line is added in feature branch
