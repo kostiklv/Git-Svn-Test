@@ -7,3 +7,5 @@ Adding line from GIT and editing it from SVN  editing the same line from GIT (wi
 Adding line from SVN and editing it from GIT another change from GIT changing the same line from SVN
 
 Added something in GIT
+
+Now adding something from SVN
