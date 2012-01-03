@@ -4,4 +4,4 @@ This line was added in SVN.
 
 Adding line from GIT and editing it from SVN  editing the same line from GIT (will try to see conflict in GIT now) AND MERGING IN GIT
 
-Adding line from SVN
+Adding line from SVN and editing it from GIT
